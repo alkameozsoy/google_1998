@@ -1,9 +1,10 @@
-# Kodluyoruz - FrontEnd 101 Eğitimi -- ### Google Ana Sayfasını Tasarlamak
+# Kodluyoruz - FrontEnd 101 Eğitimi
+
+## Eski Google Ana Sayfasını Tasarlamak
 
 > Hakan Yalçınkaya CSS Ödev 2
 >
 > > [Patika.dev](https://app.patika.dev/courses/css/odev2)
 
-### Google Ana Sayfasını Tasarlamak
+>Dosyaların içinde projenin ekran görüntüsü vardır
 
-# Bir önceki ödevimizde ilk web sayfamızı yapıp bunu kişisel sayfamız olarak tasarlamıştım. Yeni öğrendiğimiz bilgiler dahilinde bu sayfayı geliştirmeye devam ettim
