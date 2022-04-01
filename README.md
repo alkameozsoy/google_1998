@@ -6,5 +6,5 @@
 >
 > > [Patika.dev Ödev Linki](https://app.patika.dev/courses/css/odev2)
 
->Dosyaların içinde projenin ekran görüntüsü vardır
+[Proje Ekran Resmi Linki](https://github.com/alkameozsoy/google_1998/blob/main/index.png)
 
